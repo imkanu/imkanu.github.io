@@ -12,7 +12,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #ffcccc;
+	background-image: url('bulb.png');
 	
 }
 .peach-after {
