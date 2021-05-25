@@ -17,19 +17,19 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-image: url("cake128.png");
+		background-image: url("me1.png");
 	}
 	25%{
-		background-image: url("cake128.png");
+		background-image: url("me2.png");
 	}
 	50%{
-		background-image: url("cake128.png");
+		background-image: url("me1.png");
 	}
 	75%{
-		background-image: url("cake128.png");
+		background-image: url("me2.png");
 	}
 	100%{
-		background-image: url("cake128.png");
+		background-image: url("me1.png");
 	}
 }
 
