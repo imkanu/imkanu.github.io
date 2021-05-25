@@ -96,7 +96,7 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFCCCC;
+		background-image: url("cake128.png");
 	}
 	25%{
 		background-color: #FFB3B3;
