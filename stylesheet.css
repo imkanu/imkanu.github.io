@@ -8,7 +8,7 @@ body {
 	display: none;
 }
 .peach {
-	background-image: url('me1.png');
+	background-image: url('me1.jpeg');
 	
 }
 .peach-after {
@@ -17,19 +17,19 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-image: url("me1.png");
+		background-image: url("me1.jpeg");
 	}
 	25%{
-		background-image: url("me2.png");
+		background-image: url("me2.jpeg");
 	}
 	50%{
-		background-image: url("me1.png");
+		background-image: url("me1.jpeg");
 	}
 	75%{
-		background-image: url("me2.png");
+		background-image: url("me2.jpeg");
 	}
 	100%{
-		background-image: url("me1.png");
+		background-image: url("me1.jpeg");
 	}
 }
 
