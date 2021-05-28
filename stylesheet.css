@@ -17,19 +17,19 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color: #ffcccc;
+		background-color: #ffb3b3;
 	}
 	25%{
-		background-color: #b3ffe6;
+		background-color: #b3ffd9;
 	}
 	50%{
 		background-color: #ffb3b3;
 	}
 	75%{
-		background-color: #b3ffe6;
+		background-color: #b3ffd9;
 	}
 	100%{
-		background-color: #ffcccc;
+		background-color: #ffb3b3;
 	}
 }
 
