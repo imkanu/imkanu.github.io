@@ -8,7 +8,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #ff9999;
+	background-color: #ffcccc;
 	
 }
 .peach-after {
@@ -20,16 +20,16 @@ body {
 		background-color: #ffcccc;
 	}
 	25%{
-		background-color: #ff8080;
+		background-color: #e6fff7;
 	}
 	50%{
-		background-color: #ff6666;
+		background-color: #ffcccc;
 	}
 	75%{
-		background-color: #ff4d4d;
+		background-color: #e6fff7;
 	}
 	100%{
-		background-color: #ff6666;
+		background-color: #ffcccc;
 	}
 }
 
