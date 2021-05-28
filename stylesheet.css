@@ -8,7 +8,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #ffcccc;
+	background-color: #e6e6ff;
 	
 }
 .peach-after {
@@ -17,19 +17,19 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color: #FFCCCC;
+		background-color: #cceeff;
 	}
 	25%{
-		background-color: #FFB3B3;
+		background-color: #b3ffff;
 	}
 	50%{
-		background-color: #FFCCCC;
+		background-color: #ccd9ff;
 	}
 	75%{
-		background-color: #FFE6E6;
+		background-color: #b3e6ff;
 	}
 	100%{
-		background-color: #FFCCCC;
+		background-color: #e6ffff;
 	}
 }
 
