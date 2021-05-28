@@ -8,7 +8,7 @@ body {
 	display: none;
 }
 .peach {
-	background-color: #bf8ccc;
+	background: linear-gradient(to top, #99ccff 0%, #ff99ff 100%);
 	
 }
 .peach-after {
@@ -17,19 +17,19 @@ body {
 
 @keyframes peach_alive {
 	0%{
-		background-color: #b28acc;
+		background: linear-gradient(to top left, #99ccff 0%, #ff99ff 100%);
 	}
 	25%{
-		background-color: #cc8fcc;
+		background: linear-gradient(to bottom left, #99ccff 0%, #ff99ff 100%);
 	}
 	50%{
-		background-color: #b28acc;
+		background: linear-gradient(to bottom right, #99ccff 0%, #ff99ff 100%);
 	}
 	75%{
-		background-color: #cc8fcc;
+		background: linear-gradient(to top right, #99ccff 0%, #ff99ff 100%);
 	}
 	100%{
-		background-color: #b28acc;
+		background: linear-gradient(to top left, #99ccff 0%, #ff99ff 100%);
 	}
 }
 
