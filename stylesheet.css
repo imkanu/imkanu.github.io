@@ -294,9 +294,9 @@ audio {
 
 .balloons {
 	position: fixed;
-	bottom: -450px;
+	bottom: -600px;
 	opacity: 0.6;
-	z-index: 109;
+	z-index: 130;
 	width: 100px;
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
