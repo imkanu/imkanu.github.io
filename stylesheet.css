@@ -296,7 +296,7 @@ audio {
 	position: fixed;
 	bottom: -1000px;
 	opacity: 0.6;
-	z-index: 130;
+	z-index: 500;
 	width: 100px;
 	height: 183px;
 	background-repeat: no-repeat no-repeat;
